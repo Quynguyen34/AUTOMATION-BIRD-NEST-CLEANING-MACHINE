@@ -1,0 +1,11 @@
+../Core/Src/freertos.c:68:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:86:5:max3	32	static
+../Core/Src/freertos.c:91:6:DelayUs_step	16	static
+../Core/Src/freertos.c:99:6:HOME	16	static
+../Core/Src/freertos.c:133:6:MoveToPosXY	48	static
+../Core/Src/freertos.c:161:6:MoveToPosZ	40	static
+../Core/Src/freertos.c:183:6:MX_FREERTOS_Unit	128	static
+../Core/Src/freertos.c:231:6:StartMainSystem	24	static
+../Core/Src/freertos.c:262:6:StartUART_RX	16	static
+../Core/Src/freertos.c:280:6:StartUART_TX	16	static
+../Core/Src/freertos.c:298:6:StartGRAB	16	static
